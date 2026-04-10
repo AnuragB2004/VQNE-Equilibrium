@@ -445,21 +445,6 @@ U_i = α · F_i  +  β · R_i  −  γ · C_i
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{vqne2025,
-  title   = {Quantum Game-Theoretic Models for Optimal Entanglement Distribution in Quantum Networks},
-  author  = {Anurag B},
-  journal = {arXiv preprint},
-  year    = {2025}
-}
-```
-
----
-
 ## License
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
